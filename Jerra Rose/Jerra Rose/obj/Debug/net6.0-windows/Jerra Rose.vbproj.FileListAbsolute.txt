@@ -1,0 +1,44 @@
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\obj\Debug\net6.0-windows\Jerra Rose.vbproj.AssemblyReference.cache
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\obj\Debug\net6.0-windows\Jerra_Rose.Form1.resources
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\obj\Debug\net6.0-windows\Jerra_Rose.Form2.resources
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\obj\Debug\net6.0-windows\Jerra Rose.vbproj.GenerateResource.cache
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\obj\Debug\net6.0-windows\Jerra Rose.GeneratedMSBuildEditorConfig.editorconfig
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\obj\Debug\net6.0-windows\Jerra Rose.AssemblyInfoInputs.cache
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\obj\Debug\net6.0-windows\Jerra Rose.AssemblyInfo.vb
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\obj\Debug\net6.0-windows\Jerra Rose.vbproj.CoreCompileInputs.cache
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Jerra Rose.exe
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Jerra Rose.dll.config
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Jerra Rose.deps.json
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Jerra Rose.runtimeconfig.json
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Jerra Rose.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Jerra Rose.pdb
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\obj\Debug\net6.0-windows\Jerra Rose.vbproj.CopyComplete
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\obj\Debug\net6.0-windows\Jerra Rose.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\obj\Debug\net6.0-windows\refint\Jerra Rose.dll
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\obj\Debug\net6.0-windows\Jerra Rose.pdb
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\obj\Debug\net6.0-windows\Jerra Rose.genruntimeconfig.cache
+D:\Franz Files\SDM Subject\Jerra Rose\New Program\Jerra Rose\Jerra Rose\obj\Debug\net6.0-windows\ref\Jerra Rose.dll
